@@ -1,35 +1,17 @@
-# Zero-Day
+# 🚀 Dự án mẫu: Chuẩn bị cho dự án phần mềm (Software Project Best Practices)
 
-## Git và GitHub trong quản lý phiên bản phần mềm
+[![CI](https://github.com/ten-nguoi-dung/software-project-best-practices/actions/workflows/ci.yml/badge.svg)](https://github.com/ten-nguoi-dung/software-project-best-practices/actions/workflows/ci.yml)
+[![Giấy phép MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Dự án học tập và nghiên cứu về Git, GitHub và cách xây dựng một repository chuẩn cho dự án phần mềm.
+> Repository này minh họa **các chuẩn mực (best practices)** của một dự án phần mềm hiện đại: cấu trúc thư mục (folder structure), quy trình Git (Git workflow), tích hợp liên tục (CI/CD), chất lượng mã (code quality), bảo mật (security), kiểm thử (testing). Dùng để thuyết trình trong môn **Quản lý Dự án**.
 
-## Nội dung
+---
 
-### Chương 1: Git và GitHub
-- Khái niệm Git
-- Khái niệm GitHub
-- Quản lý phiên bản phần mềm
-- Các lệnh Git cơ bản
-- Quy trình làm việc với GitHub
+## 📦 Cài đặt (Installation)
 
-### Chương 2: Repository chuẩn cho dự án phần mềm
-- Cấu trúc thư mục
-- README.md
-- .gitignore
-- Branch Strategy
-- Pull Request
-- Code Review
-
-## Thành viên nhóm
-- Thành viên 1: Lê Văn An
-- Thành viên 2: Nguyễn Hữu Phát
-- Thành viên 3: Lưu Thị Kim Liên
-- Thành viên 4: Bùi Thị Hương Quỳnh
-## Công cụ sử dụng
-- Git
-- GitHub
-- PowerPoint
-
-## Mục tiêu
-Xây dựng một repository mẫu thể hiện đầy đủ quy trình quản lý mã nguồn chuyên nghiệp bằng Git và GitHub.
+```bash
+git clone https://github.com/ten-nguoi-dung/software-project-best-practices.git
+cd software-project-best-practices
+npm install
+cp .env.example .env
+# Điền giá trị thật vào file .env (Fill real values in .env)
