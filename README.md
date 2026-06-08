@@ -22,14 +22,14 @@ Dự án học tập và nghiên cứu về Git, GitHub và cách xây dựng m�
 - Code Review
 
 ## Thành viên nhóm
-- Thành viên 1
-- Thành viên 2
-- Thành viên 3
-
+- Thành viên 1: Lê Văn An
+- Thành viên 2: Nguyễn Hữu Phát
+- Thành viên 3: Lưu Thị Kim Liên
+- Thành viên 4: Bùi Thị Hương Quỳnh
 ## Công cụ sử dụng
 - Git
 - GitHub
-- Visual Studio Code
+- PowerPoint
 
 ## Mục tiêu
 Xây dựng một repository mẫu thể hiện đầy đủ quy trình quản lý mã nguồn chuyên nghiệp bằng Git và GitHub.
