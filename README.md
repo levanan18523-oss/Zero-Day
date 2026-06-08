@@ -1,4 +1,4 @@
-# 🚀 Dự án mẫu: Chuẩn bị cho dự án phần mềm (Software Project Best Practices)
+#Dự án mẫu: Chuẩn bị cho dự án phần mềm (Software Project Best Practices)
 
 [![CI](https://github.com/ten-nguoi-dung/software-project-best-practices/actions/workflows/ci.yml/badge.svg)](https://github.com/ten-nguoi-dung/software-project-best-practices/actions/workflows/ci.yml)
 [![Giấy phép MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📦 Cài đặt (Installation)
+##Cài đặt (Installation)
 
 ```bash
 git clone https://github.com/ten-nguoi-dung/software-project-best-practices.git
