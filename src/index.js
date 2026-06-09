@@ -1,4 +1,3 @@
-//Giải thích: Đây là file chính của ứng dụng.
 //Nơi bạn viết code xử lý logic chính.
 
 function sayHello(name) {
